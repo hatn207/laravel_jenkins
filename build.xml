@@ -1,4 +1,4 @@
-<project name="name-of-project" default="build">
+<project name="PHP_LARAVEL" default="build">
     <!--  By default, we assume all tools to be on the $PATH  -->
     <property name="PHP_LARAVEL" value=""/>
     <!--
