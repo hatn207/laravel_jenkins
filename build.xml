@@ -1,6 +1,6 @@
 <project name="name-of-project" default="build">
     <!--  By default, we assume all tools to be on the $PATH  -->
-    <property name="toolsdir" value=""/>
+    <property name="PHP_LARAVEL" value=""/>
     <!--
      Uncomment the following when the tools are in ${basedir}/vendor/bin
     -->
